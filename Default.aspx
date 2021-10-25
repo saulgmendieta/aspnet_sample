@@ -9,7 +9,7 @@
         <div class="col-md-6">
             <p> Text 2</p>
             <br />
-            <p> Text 3</p>
+            <p> Text 3 </p>
         </div>
     </div>
 
